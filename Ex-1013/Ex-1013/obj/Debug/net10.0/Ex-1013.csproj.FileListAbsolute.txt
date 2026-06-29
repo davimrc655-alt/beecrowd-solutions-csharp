@@ -1,0 +1,15 @@
+C:\Users\miqueias\OneDrive\Desktop\estudos c#\curso logica com c#\25.06 ex 1012\Ex-1013\Ex-1013\bin\Debug\net10.0\Ex-1013.exe
+C:\Users\miqueias\OneDrive\Desktop\estudos c#\curso logica com c#\25.06 ex 1012\Ex-1013\Ex-1013\bin\Debug\net10.0\Ex-1013.deps.json
+C:\Users\miqueias\OneDrive\Desktop\estudos c#\curso logica com c#\25.06 ex 1012\Ex-1013\Ex-1013\bin\Debug\net10.0\Ex-1013.runtimeconfig.json
+C:\Users\miqueias\OneDrive\Desktop\estudos c#\curso logica com c#\25.06 ex 1012\Ex-1013\Ex-1013\bin\Debug\net10.0\Ex-1013.dll
+C:\Users\miqueias\OneDrive\Desktop\estudos c#\curso logica com c#\25.06 ex 1012\Ex-1013\Ex-1013\bin\Debug\net10.0\Ex-1013.pdb
+C:\Users\miqueias\OneDrive\Desktop\estudos c#\curso logica com c#\25.06 ex 1012\Ex-1013\Ex-1013\obj\Debug\net10.0\Ex-1013.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miqueias\OneDrive\Desktop\estudos c#\curso logica com c#\25.06 ex 1012\Ex-1013\Ex-1013\obj\Debug\net10.0\Ex-1013.AssemblyInfoInputs.cache
+C:\Users\miqueias\OneDrive\Desktop\estudos c#\curso logica com c#\25.06 ex 1012\Ex-1013\Ex-1013\obj\Debug\net10.0\Ex-1013.AssemblyInfo.cs
+C:\Users\miqueias\OneDrive\Desktop\estudos c#\curso logica com c#\25.06 ex 1012\Ex-1013\Ex-1013\obj\Debug\net10.0\Ex-1013.csproj.CoreCompileInputs.cache
+C:\Users\miqueias\OneDrive\Desktop\estudos c#\curso logica com c#\25.06 ex 1012\Ex-1013\Ex-1013\obj\Debug\net10.0\Ex-1013.sourcelink.json
+C:\Users\miqueias\OneDrive\Desktop\estudos c#\curso logica com c#\25.06 ex 1012\Ex-1013\Ex-1013\obj\Debug\net10.0\Ex-1013.dll
+C:\Users\miqueias\OneDrive\Desktop\estudos c#\curso logica com c#\25.06 ex 1012\Ex-1013\Ex-1013\obj\Debug\net10.0\refint\Ex-1013.dll
+C:\Users\miqueias\OneDrive\Desktop\estudos c#\curso logica com c#\25.06 ex 1012\Ex-1013\Ex-1013\obj\Debug\net10.0\Ex-1013.pdb
+C:\Users\miqueias\OneDrive\Desktop\estudos c#\curso logica com c#\25.06 ex 1012\Ex-1013\Ex-1013\obj\Debug\net10.0\Ex-1013.genruntimeconfig.cache
+C:\Users\miqueias\OneDrive\Desktop\estudos c#\curso logica com c#\25.06 ex 1012\Ex-1013\Ex-1013\obj\Debug\net10.0\ref\Ex-1013.dll
