@@ -7,9 +7,9 @@ class Uri
         double valorRecebido = Convert.ToDouble(Console.ReadLine(), CultureInfo.InvariantCulture); 
         double calcCentavos = valorRecebido * 100; 
         int totalCentavosConvertido = Convert.ToInt32(Math.Round(calcCentavos)); 
-        //----------
+        
         Console.WriteLine("NOTAS:");
-        //---------
+        
         totalCentavosConvertido = ProcessarValor(totalCentavosConvertido, 10000, "nota(s) de R$", "100.00");
         totalCentavosConvertido = ProcessarValor(totalCentavosConvertido, 5000, "nota(s) de R$", "50.00");
         totalCentavosConvertido = ProcessarValor(totalCentavosConvertido, 2000, "nota(s) de R$", "20.00");

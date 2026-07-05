@@ -2,7 +2,7 @@
 using System.Globalization;
 class URI
 {
-
+// --------------------------------------------distancia entre dois pontos---------------------------
     static void Main(string[] args)
     {
         String[] Valores1 = Console.ReadLine().Split(' ');
